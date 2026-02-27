@@ -1,0 +1,19 @@
+{
+	"id":117 ,
+	"name": "15 second extreme demon",
+	"author": "Krypton",
+	"creators": [
+	"Krypton"
+	],
+	"verifier": "Krypton",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "53ek",
+			"link": "https://youtu.be/10xP70gjWP4",
+			"percent": 100,
+			"hz": 360
+		}
+	]
+}
+

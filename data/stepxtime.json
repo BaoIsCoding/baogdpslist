@@ -23,7 +23,13 @@
 			"link": "https://www.youtube.com/watch?v=uZtTrqMLRIg",
 			"percent": 100,
 			"hz": 240
-		}
+		},
+			{
+				"user": "V1P",
+				"link": "https://youtu.be/2nWVkS9BaZo",
+				"percent": "100",
+				"hz": 180
+			}
 	]
 }
 
